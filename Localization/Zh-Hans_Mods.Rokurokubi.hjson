@@ -1,0 +1,9 @@
+Keybinds: {
+	RokurokubiKeyBind.DisplayName: 飞头键
+	RidiculeKeyBind.DisplayName: 嘲讽键
+}
+
+Projectiles: {
+	PlayerHead.DisplayName: 玩家的头
+	Saliva.DisplayName: 口水
+}

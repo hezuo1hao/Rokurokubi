@@ -1,0 +1,6 @@
+displayName = Rokurokubi 飞头蛮Mod
+author = hezuo1hao
+version = 1.0
+includeSource= true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+homepage = https://github.com/MineGame223/TouhouLittleFriend

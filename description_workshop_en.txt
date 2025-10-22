@@ -1,0 +1,17 @@
+The Rokurokubi Mod - So You Can Fly!
+Added two hotkeys for maximum shenanigans: one makes your head detach and fly around, the other lets you spit to taunt your enemies!
+
+- Fully Multiplayer-Compatible, Built for Online Chaos! Imagine one teammate diligently fighting the boss while the rest are spamming spit and typing taunts in chat. ("Zako~" / "You scrub~")
+- Camera Follows the Flying Head! Maybe you should try fighting the boss from a... different perspective?
+
+Let's make all of humanity take flight!
+
+Mechanics:
+* Hotkeys
+- Head Flight Key: Press to launch your head towards the cursor. Use movement keys to control it; your body becomes immobile during this time.
+- Press the key again to retrieve your head, or you can manually guide it back.
+
+- Taunt Key: Press to spit towards the cursor position, perfect for trolling your friends.
+
+Special Thanks:
+果冻 - for providing the mod icon texture.

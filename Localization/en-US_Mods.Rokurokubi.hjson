@@ -1,0 +1,9 @@
+Keybinds: {
+	RokurokubiKeyBind.DisplayName: Head Flight Key
+	RidiculeKeyBind.DisplayName: Taunt Key
+}
+
+Projectiles: {
+	PlayerHead.DisplayName: Player Head
+	Saliva.DisplayName: Saliva
+}
